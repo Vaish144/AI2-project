@@ -12,4 +12,9 @@ The data used in this project has the following subfolders:
 - test_another: the unbalanced test data; 8000/1000 images of damaged/undamaged classes
 - test: the balanced test data; 1000 images of each class(damage/no damage)
 
+(The dataset was collected from "Geo-satellite sensor" and "Geo Bigdata" and provided to us for the purpose of this project)
+
+
+**In this project, I have worked on the Data visualization section - Saliency maps, Grad-CAM heatmaps and Image occlusion mainly.**
+
 Note: This project was done as a part of a certification course at Univ.AI.
